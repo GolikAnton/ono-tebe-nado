@@ -32,7 +32,7 @@
 }
 
 .header__logo-image {
-  display: flex; 
+  display: flex;
   width: auto;
   height: 106px;
  }
@@ -159,14 +159,14 @@
 
 
 .lots {
-  padding-top: 179px; 
+  padding-top: 179px;
   margin-bottom: 146px;
 }
 
 .lots__heading {
   display: block;
   padding-left: 64px;
-  margin-bottom: 27px; 
+  margin-bottom: 27px;
   font-family: Raleway, sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -268,7 +268,7 @@
 .about {
   display: grid;
   grid-template-columns: 344px auto;
-  padding: 35px 22px 0; 
+  padding: 35px 22px 0;
   margin-bottom: 180px;
   gap: 22px;
 }
@@ -280,7 +280,7 @@
 }
 
 .about__logo {
-  display: flex; 
+  display: flex;
   background-color: black;
   border-radius: 100%;
   width: 240px;
